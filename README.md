@@ -56,6 +56,9 @@ Se puede conocer el porcentaje de personajes que pertenecen a las casas del cole
 
 ## 4. Diseño de la Interfaz de Usuario
 
+A continuación, se presentan imágenes con los diferentes diseños realizados durante el proceso de desarrollo del proyecto.*
+*Cabe destacar que los primeros prototipos respondían a HU que fueron descartadas durante el proceso. Estas historias, mostraban contenido de la data referente a los hechizos y posiones. Es por este motivo que los diseños posteriores y el producto final, difieren en el contenido con estos primeros prototipos, mostrando solo data de los personajes.
+
 #### Prototipo de baja fidelidad
 
 ![Prototipo Baja Fidelidad](./src/imagenes/historia0.png)
