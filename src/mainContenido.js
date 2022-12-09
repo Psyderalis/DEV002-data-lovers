@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 import data from './data/harrypotter/harry.js';
 import { ordenarAsc, ordenarDesc, filtrarGryffindor, filtrarSlytherin, filtrarHufflepuff, filtrarRavenclaw, porcentajePersonajesGryffindor, porcentajePersonajesHufflepuff, porcentajePersonajesRavenclaw, porcentajePersonajesSlytherin } from './data.js';
 
@@ -233,4 +231,3 @@ document.getElementById("menuRavenclaw").addEventListener('click', function () {
 
 //MOSTRAR PORCENTAJE DE PERSONAJES POR CASA
 //porcentajePersonajesGryffindor(charactersHP);
->>>>>>> c5a9ee765007794c7cfc49744615b554f3c8141a
