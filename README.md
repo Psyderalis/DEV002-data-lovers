@@ -95,13 +95,21 @@ Prototipo de Tarjetas en version Movil y Desktop
 #### Testeos de usabilidad
 
 Durante el proceso de desarrollo, se solicitó feedback del producto a distintas compañeras, además de un testeo de usabilidad a una aficionada de Harry Potter.
+
 El testeo consistió en la usabilidad de la interfaz en dispositivo móvil y ordenador, pasando por cada unas de las secciones de la página.
+
 Algunas de las preguntas realizadas a la usaria durante el testeo fueron las siguientes:
+
 -"¿qué te parece la sección en rasgos generales?
+
 -"¿es legible la información?"
+
 -"¿agregarías, quitarías o modificarías algo de esta sección?"
+
 -"como fan de la saga, ¿te parece un producto interesante?¿lo utilizarías por interés personal?
+
 Junto a estas preguntas, se observó el lenguaje corporal de y las reacciones de la usaria al interactuar con la página. 
+
 
 ![Testeo de usabilidad móvil](./src/imagenes/tu-movil.png)
 
